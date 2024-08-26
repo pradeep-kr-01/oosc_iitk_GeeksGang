@@ -2,7 +2,7 @@
 
 This Python script performs web scraping, generates questions based on the scraped content using OpenAI's GPT-3.5 model, finds relevant links, and evaluates the generated questions and relevance detection.
 
-#Alert: This Program will take 2-5 minutes. Keep Patience ! HAppy Coding !
+Alert: This Program will take 2-5 minutes. Keep Patience ! HAppy Coding !
 
 ## Features
 
@@ -168,10 +168,6 @@ def main():
    ```
 
 3. Enter the OpenAI API key and the URL when prompted.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
